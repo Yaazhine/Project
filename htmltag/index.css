@@ -10,11 +10,15 @@ body {
 
 }
 
-.box {
+.bx {
     height: 200px;
     width: 200px;
-    background-color: rgb(241, 13, 219);
     border-radius: 50%;
+}
+
+.box {
+    background-color: rgb(241, 13, 219);
+
 }
 
 .box1 {
